@@ -20,4 +20,5 @@ nav:
   - Macros:
       - Non-scaled multi-channel profile: non_scaled_multichannel_plot.md
       - Scaled multi-channel profile: scaled_multichannel_plot.md
+      - Copy channel colors/LUT: copy_channel_colors_lut.md
   - Deployment (GitHub Pages): deployment.md
