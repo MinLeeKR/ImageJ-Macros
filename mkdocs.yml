@@ -1,4 +1,8 @@
-site_name: My ImageJ Tools
+site_name: ImageJ Macros Collection
+site_url: https://minleekr.github.io/ImageJ-Macros/
+repo_url: https://github.com/MinLeeKR/ImageJ-Macros
+repo_name: GitHub
+
 theme:
   name: material
   palette:
@@ -8,8 +12,12 @@ theme:
     - navigation.tabs
     - navigation.expand
     - search.suggest
+    - search.highlight
 
 nav:
   - Home: index.md
+  - Installation: installation.md
   - Macros:
-    - Multi-Color Plot: macros/plot.md
+      - Non-scaled multi-channel profile: non_scaled_multichannel_plot.md
+      - Scaled multi-channel profile: scaled_multichannel_plot.md
+  - Deployment (GitHub Pages): deployment.md
