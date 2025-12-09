@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://minleekr.github.io/ImageJ-Macros/</loc>
+         <lastmod>2025-12-09</lastmod>
+    </url>
+    <url>
+         <loc>https://minleekr.github.io/ImageJ-Macros/copy_channel_colors_lut/</loc>
+         <lastmod>2025-12-09</lastmod>
+    </url>
+    <url>
+         <loc>https://minleekr.github.io/ImageJ-Macros/deployment/</loc>
+         <lastmod>2025-12-09</lastmod>
+    </url>
+    <url>
+         <loc>https://minleekr.github.io/ImageJ-Macros/installation/</loc>
+         <lastmod>2025-12-09</lastmod>
+    </url>
+    <url>
+         <loc>https://minleekr.github.io/ImageJ-Macros/multichannel_plot/</loc>
+         <lastmod>2025-12-09</lastmod>
+    </url>
+    <url>
+         <loc>https://minleekr.github.io/ImageJ-Macros/roi_detection_from_mask/</loc>
+         <lastmod>2025-12-09</lastmod>
+    </url>
+    <url>
+         <loc>https://minleekr.github.io/ImageJ-Macros/startup_macros/</loc>
+         <lastmod>2025-12-09</lastmod>
+    </url>
+</urlset>
