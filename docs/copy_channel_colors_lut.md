@@ -41,6 +41,5 @@ Composite 모드에서 채널별 색을 맞춰 놓은 후,
 
 - [Download macro (.ijm)](assets/macros/Copy_Channel_Colors_LUT.ijm)
 
-스크린샷은 아직 없지만, 실제 사용에는 지장이 없습니다.  
-필요하면 나중에 예시 이미지를 추가해 문서를 업데이트해도 됩니다.
+
 

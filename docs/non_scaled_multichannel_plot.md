@@ -29,5 +29,5 @@
 
 - [Download macro (.ijm)](assets/macros/non-scaled_multichannel_plot.ijm)
 
-ImageJ 매크로 에디터에서 열어 코드 내용을 수정하거나, 본인 실험 조건에 맞게 부분적으로 수정하여 재사용할 수 있습니다.
+
 
