@@ -22,4 +22,5 @@ nav:
       - Scaled multi-channel profile: scaled_multichannel_plot.md
       - Copy channel colors/LUT: copy_channel_colors_lut.md
       - Startup macros (F-keys & channels): startup_macros.md
+      - ROI detection from mask (ID → ROI): roi_detection_from_mask.md
   - Deployment (GitHub Pages): deployment.md
